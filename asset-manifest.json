@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yonaha/static/css/main.5f361e03.chunk.css",
+    "main.js": "/yonaha/static/js/main.febd318f.chunk.js",
+    "main.js.map": "/yonaha/static/js/main.febd318f.chunk.js.map",
+    "runtime-main.js": "/yonaha/static/js/runtime-main.b012df8c.js",
+    "runtime-main.js.map": "/yonaha/static/js/runtime-main.b012df8c.js.map",
+    "static/js/2.7fe91a17.chunk.js": "/yonaha/static/js/2.7fe91a17.chunk.js",
+    "static/js/2.7fe91a17.chunk.js.map": "/yonaha/static/js/2.7fe91a17.chunk.js.map",
+    "index.html": "/yonaha/index.html",
+    "precache-manifest.dc3d21f2474a501cc85cb764a477d150.js": "/yonaha/precache-manifest.dc3d21f2474a501cc85cb764a477d150.js",
+    "service-worker.js": "/yonaha/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/yonaha/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7fe91a17.chunk.js.LICENSE.txt": "/yonaha/static/js/2.7fe91a17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b012df8c.js",
+    "static/js/2.7fe91a17.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.febd318f.chunk.js"
+  ]
+}
